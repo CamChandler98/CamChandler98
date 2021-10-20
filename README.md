@@ -46,11 +46,13 @@ I am a passionate web developer with experience in frontend and backend technolo
 
 ---
 
-## Contact Me!
+### Contact Me!
 - [Linkedin](https://www.linkedin.com/in/cameron-chandler-dev/)
 - [AngelList](https://angel.co/u/cameron-chandler)
 - [Portfolio](https://camchandler98.github.io/)
 - Email: camchandler15@gmail.com
+
+---
 
 ### Github stats
 [![Cams GitHub stats](https://github-readme-stats.vercel.app/api?username=CamChandler98&count_private=true&show_icons=true&theme=dracula)
