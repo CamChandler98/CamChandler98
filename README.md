@@ -55,6 +55,5 @@ I am a passionate web developer with experience in frontend and backend technolo
 ---
 
 ### Github stats
-[![Cams GitHub stats](https://github-readme-stats.vercel.app/api?username=CamChandler98&count_private=true&show_icons=true&theme=dracula)
-)
+[![Cams GitHub stats](https://github-readme-stats.vercel.app/api?username=CamChandler98&count_private=true&show_icons=true&theme=dracula
 )](https://github.com/CamChandler98?tab=repositories)
