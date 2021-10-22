@@ -24,7 +24,7 @@ I am a passionate web developer with experience in frontend and backend technolo
 - 💬 Ask me about websockets(no really please I am dying to talk about them) or anything nerd culture ( games, anime, tabletop ... and so on)
 - 😄 Pronouns: he/him/his
 - 🤩 Hobbies: 3d Modeling(Blender), Game Dev(Unity), Music(Bass guitar, ukelele)
-- ⚡ Fantastic Fact of the Day: Male Platypuses have a venomous spurs that are thought to be used during intraspecific combat!
+- ⚡ Fantastic Fact of the Day: A nuetron star is so dense that a teaspoon would weigh more than the entire human population
 
 ---
 
