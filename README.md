@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am a passionate web developer with experience in frontend and backend technologies. Love all things science and tech! I am always looking for something new to learn!
 
-<img align="right" alt="GIF" src="https://64.media.tumblr.com/155fff0a8c45f385c6861c71e446536f/tumblr_pjmtn7b19j1vbdodoo1_1280.gif" width="400" height="270">
+<img align="right" alt="GIF" src="https://64.media.tumblr.com/155fff0a8c45f385c6861c71e446536f/tumblr_pjmtn7b19j1vbdodoo1_1280.gif" width="400" height="280">
 
 ## Software Engineer, Scientific, Dog Lover, Nerd
 - 👯 Always open to collaborate! Please contact me with anything you need a hand with!
