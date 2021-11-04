@@ -24,7 +24,7 @@ I am a passionate web developer with experience in frontend and backend technolo
 - 💬 Ask me about websockets(no really please I am dying to talk about them) or anything nerd culture ( games, anime, tabletop ... and so on)
 - 😄 Pronouns: he/him/his
 - 🤩 Hobbies: 3d Modeling(Blender), Game Dev(Unity), Music(Bass guitar, ukelele)
-- ⚡ Fantastic Fact of the Day: There is evidence that some animals, like sea turtles and salmon, have the ability to sense the Earth’s magnetic field and can use this sense for navigation
+- ⚡ Fantastic Fact of the Day: The fingerprints of a koala are so indistinguishable from humans that they have on occasion been confused at a crime scene.
 
 ---
 
