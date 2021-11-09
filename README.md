@@ -24,8 +24,7 @@ I am a passionate web developer with experience in frontend and backend technolo
 - 💬 Ask me about websockets(no really please I am dying to talk about them) or anything nerd culture ( games, anime, tabletop ... and so on)
 - 😄 Pronouns: he/him/his
 - 🤩 Hobbies: 3d Modeling(Blender), Game Dev(Unity), Music(Bass guitar, ukelele)
-- ⚡ Fantastic Fact of the Day: The first known computer programmer was a woman
-named Ada Lovelace. Ada lived in England, where she worked as a mathematician and writer. She is famous for working on the “Analytical Engine.”
+- ⚡ Fantastic Fact of the Day: The US state Kentucky has the most caves per kilometer of anywhere on earth
 
 ---
 
