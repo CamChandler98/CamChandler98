@@ -24,7 +24,7 @@ I am a passionate web developer with experience in frontend and backend technolo
 - 💬 Ask me about websockets(no really please I am dying to talk about them) or anything nerd culture ( games, anime, tabletop ... and so on)
 - 😄 Pronouns: he/him/his
 - 🤩 Hobbies: 3d Modeling(Blender), Game Dev(Unity), Music(Bass guitar, ukelele)
-- ⚡ Fantastic Fact of the Day: The US state Kentucky has the most caves per kilometer of anywhere on earth
+- ⚡ Fantastic Fact of the Day: The Moon is drifting away from Earth at a rate of 1.5 inches (3.8 cm) a year
 
 ---
 
