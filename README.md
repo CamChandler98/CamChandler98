@@ -24,7 +24,7 @@ I am a passionate web developer with experience in frontend and backend technolo
 - 💬 Ask me about websockets(no really please I am dying to talk about them) or anything nerd culture ( games, anime, tabletop ... and so on)
 - 😄 Pronouns: he/him/his
 - 🤩 Hobbies: 3d Modeling(Blender), Game Dev(Unity), Music(Bass guitar, ukelele)
-- ⚡ Fantastic Fact of the Day: The NES came out in America in 1985
+- ⚡ Fantastic Fact of the Day:  Velocity dispersion curves of galaxies require 85% of their mass to be dark matter.
 ---
 
 
