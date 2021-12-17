@@ -24,7 +24,7 @@ I am a passionate web developer with experience in frontend and backend technolo
 - 💬 Ask me about websockets(no really please I am dying to talk about them) or anything nerd culture ( games, anime, tabletop ... and so on)
 - 😄 Pronouns: he/him/his
 - 🤩 Hobbies: 3d Modeling(Blender), Game Dev(Unity), Music(Bass guitar, ukelele)
-- ⚡ Fantastic Fact of the Day:  In Switzerland, a group of citizens may challenge a law passed by Parliament, if they are able to gather 50,000 signatures against the law within 100 days. A national vote is scheduled where voters decide by a simple majority whether to accept or reject the law.
+- ⚡ Fantastic Fact of the Day: Time may only be an emergent property of the 2nd law of thermodynamics
 ---
 
 
