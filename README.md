@@ -24,8 +24,7 @@ I am a passionate web developer with experience in frontend and backend technolo
 - 💬 Ask me about websockets(no really please I am dying to talk about them) or anything nerd culture ( games, anime, tabletop ... and so on)
 - 😄 Pronouns: he/him/his
 - 🤩 Hobbies: 3d Modeling(Blender), Game Dev(Unity), Music(Bass guitar, ukelele)
-- ⚡ Fantastic Fact of the Day: Time may only be an emergent property of the 2nd law of thermodynamics
----
+- ⚡ Fantastic Fact of the Day: Hummingbirds can urinate their entire body weight in one day. This is due to their incredibly fast working kidneys, without which the liquid content of the nectar they consume would weigh them down too much to fly.
 
 
 ### Technologies I'm experienced with:
