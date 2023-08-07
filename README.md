@@ -19,12 +19,11 @@ I am a passionate web developer with experience in frontend and backend technolo
 
 <img align="right" alt="GIF" src="https://64.media.tumblr.com/155fff0a8c45f385c6861c71e446536f/tumblr_pjmtn7b19j1vbdodoo1_1280.gif" width="400" height="280">
 
-## Software Engineer, Scientific, Dog Lover, Nerd
+## Software Engineer
 - 👯 Always open to collaborate! Please contact me with anything you need a hand with!
-- 💬 Ask me about websockets(no really please I am dying to talk about them) or anything nerd culture ( games, anime, tabletop ... and so on)
+- 💬 Ask me about audio processing(no really please I am dying to talk about them) or anything nerd culture ( games, anime, tabletop ... and so on)
 - 😄 Pronouns: he/him/his
 - 🤩 Hobbies: 3d Modeling(Blender), Game Dev(Unity), Music(Bass guitar, ukelele)
-- ⚡ Fantastic Fact of the Day: Hummingbirds can urinate their entire body weight in one day. This is due to their incredibly fast working kidneys, without which the liquid content of the nectar they consume would weigh them down too much to fly.
 
 
 ### Technologies I'm experienced with:
